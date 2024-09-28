@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**retimax/retimax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Retimax</h1>
 
-Here are some ideas to get you started:
+<img width="200" height="auto" src="./assets/image.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mi
+Soy un estudiante de _**ingenieria en ciberseguridad**_ apacionado por el saber, en proceso de especialización en **pentesting** y aficionado de las CTFs.
+
+### Contactame
+[X](https://x.com/NeoRolka) | [Linkedin](https://www.linkedin.com/in/karol-ren%C3%A9-rivas-d%C3%ADaz-824861258/) | [HTB](https://app.hackthebox.com/users/1078815)
+
+ **ALIAS BL4CKL0T0**
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=retimax&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=retimax&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+</div>
