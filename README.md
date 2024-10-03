@@ -10,7 +10,11 @@ Soy un estudiante de _**ingenieria en ciberseguridad**_ apacionado por el saber,
 ### Contactame
 [X](https://x.com/NeoRolka) | [Linkedin](https://www.linkedin.com/in/karol-ren%C3%A9-rivas-d%C3%ADaz-824861258/) | [HTB](https://app.hackthebox.com/users/1078815)
 
- **ALIAS BL4CKL0T0**
+<q>
+Aprendo lo que es fácil para volverlo comlejo
+</q>
+
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=retimax&theme=dark" />
