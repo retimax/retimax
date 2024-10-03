@@ -11,7 +11,7 @@ Soy un estudiante de _**ingenieria en ciberseguridad**_ apacionado por el saber,
 [X](https://x.com/NeoRolka) | [Linkedin](https://www.linkedin.com/in/karol-ren%C3%A9-rivas-d%C3%ADaz-824861258/) | [HTB](https://app.hackthebox.com/users/1078815)
 
 <q>
-Aprendo lo que es fácil para volverlo comlejo
+Aprendo lo que es fácil para volverlo complejo
 </q>
 
 ---
